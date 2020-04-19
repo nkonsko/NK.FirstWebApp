@@ -1,0 +1,93 @@
+
+
+	 
+	 #zew {
+		position: absolute;
+		top: 10px;
+		bottom: 10px;
+		left: 10px;
+		right: 10px;
+		min-width: 1000px;
+        min-height: 700px;	  
+	  }
+	  #tresc {
+		height: 500px;
+		width: 100%;
+		margin-top: 15px;
+	  }
+	 #logo {
+		position: relative;
+        top: 50gitpx; 
+        left: 30px;
+        right: 30px;
+		height: 150px;
+		width: 100%;
+		background-color: grey;
+		text-align: center;
+		font-size: 25px;
+		margin-top: 5px;
+	  }
+	  #lewy {
+		height: 100%;
+		width: 22%;
+		background-color: white;
+		float: left;
+		padding: 1%;
+	  }
+	  #srodkowy {
+		height: 100%;
+		width: 48%;
+		background-color: white;
+		float: left;
+		padding: 1%;
+	  }
+
+
+	  #tresc_lewy {
+		height: 100%;
+		width: 100%;
+		background-color: red;
+		float: left;
+	  }
+
+	  #tresc_srodkowy {
+		height: 100%;
+		width: 100%;
+		background-color: green;
+		float: left;
+	  }
+
+	  #tresc_prawy {
+		height: 100%;
+		width: 100%;
+		background-color: blue;
+		float: left;
+	  }
+
+
+
+
+	  #prawy {
+		height: 100%;
+		width: 24%;
+		background-color: white;
+		float: right;
+		padding: 1%;
+	
+	  }
+	  #stopka {
+        position: absolute;
+        bottom: 10px; 
+        left: 50px;
+        right: 50px;
+		height: 150px;
+		width: 100%;
+		background-color: grey;
+		text-align: center;
+		font-size: 25px;
+		color: white;
+		margin-top: 15px;
+	  }
+	 
+	 
+	
